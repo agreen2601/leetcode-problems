@@ -1,4 +1,4 @@
-x = -12324829234
+x = 324829
 
 class Solution(object):
     def reverse(self, x):
